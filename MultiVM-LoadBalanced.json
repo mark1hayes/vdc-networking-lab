@@ -202,7 +202,7 @@
           "imageReference": {
             "publisher": "canonical",
             "offer": "UbuntuServer",
-            "sku": "17.10",
+            "sku": "18.10",
             "version": "latest"
           },
           "osDisk": {
